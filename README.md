@@ -38,17 +38,17 @@ The goal of this project is to transform raw data into meaningful insights and h
 ## 📸 Dashboard Preview
 
 ### 🔹 Overall Dashboard
-![Overall Dashboard]()
+![Overall Dashboard](https://github.com/Vk-543/superstore-sales-dashboard-powerbi/blob/main/Dashboard.png)
 
 ---
 
 ### 🔹 Filter Applied (Category View)
-![Category Filter]()
+![Category Filter](https://github.com/Vk-543/superstore-sales-dashboard-powerbi/blob/main/Category%20-%20dashboard.png)
 
 ---
 
 ### 🔹 Filter Applied (Region View)
-![Region Filter]()
+![Region Filter](https://github.com/Vk-543/superstore-sales-dashboard-powerbi/blob/main/Region%20-%20dashboard.png)
 
 ---
 
