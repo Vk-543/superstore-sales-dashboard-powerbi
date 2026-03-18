@@ -54,9 +54,11 @@ The goal of this project is to transform raw data into meaningful insights and h
 
 ## 📂 Files Included
 
-* `Superstore_Sales_Dashboard.pbix`
+* `Superstore_Sales_Dashboard.pbix` – Power BI dashboard file  
+* `Dashboard.png` – Overall dashboard view  
+* `Category - dashboard.png` – Category filter view  
+* `Region - dashboard.png` – Region filter view  
   
-
 ---
 
 ## 🚀 Learnings
