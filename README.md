@@ -37,16 +37,25 @@ The goal of this project is to transform raw data into meaningful insights and h
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
+### 🔹 Overall Dashboard
+![Overall Dashboard]()
+
+---
+
+### 🔹 Filter Applied (Category View)
+![Category Filter]()
+
+---
+
+### 🔹 Filter Applied (Region View)
+![Region Filter]()
 
 ---
 
 ## 📂 Files Included
 
 * `Superstore_Sales_Dashboard.pbix`
-* Dashboard Screenshot
-* Region - dashboard
-* Category - dashboard
+  
 
 ---
 
